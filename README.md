@@ -32,7 +32,7 @@ mkdir aws-tf
 cd aws-tf
 ```
 
-Create provider.tf
+Create `provider.tf`
 
 ```hcl
 terraform {
@@ -48,3 +48,4 @@ provider "aws" {
   # Configuration options
 }
 ```
+
